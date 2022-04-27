@@ -10,6 +10,7 @@ Senior Software Engineer and a JavaScript/C# lecturer with industry experience b
 * ✉️  You can contact me at [rokas.m97@gmail.com](mailto:rokas.m97@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Code Jams, Hackathons and Coding Competitions
+* 🖤 Dark Mode everything!
 
 ### Skills
 
