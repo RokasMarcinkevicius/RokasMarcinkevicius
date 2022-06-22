@@ -31,11 +31,14 @@ Senior Software Engineer and a JavaScript/C# lecturer with industry experience b
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/XR5XK4wtYSZ84bS7FRepcRA78Eud9FenixtIQI4nw1h" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/RokasMarcinkevicius" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/majestcb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rokas-marcinkevicius" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/XR5XK4wtYSZ84bS7FRepcRA78Eud9FenixtIQI4nw1h" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/RokasMarcinkevicius" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/majestcb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rokas-marcinkevicius" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.leetcode.com/rokasmarcinkevicius" target="_blank" el="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rokasmarcinkevicius" height="32" width="32" /></a>
+</p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rokas-marcinkevicius&label=Profile%20views&color=0e75b6&style=flat" alt="rokas-marcinkevicius" /> </p>
 
 <a href="http://www.github.com/RokasMarcinkevicius"><img src="https://github-readme-stats.vercel.app/api?username=RokasMarcinkevicius&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RokasMarcinkevicius's GitHub stats" /></a>
 
