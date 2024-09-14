@@ -7,7 +7,7 @@ Senior Software Engineer @ Topo Centras / Lecturer @ CodeAcademy
 Senior Software Engineer and C# lecturer with industry experience building websites, web applications and APIs. I specialize in C# and have professional experience working with .Net, MSSQL and Python. I also have experience working with Vue, React, Node.js and other similar web development tools & languages.
 
 * 🌍  I'm based in Lithuania
-* ✉️  You can contact me at [rokas.m97@gmail.com](mailto:rokas.m97@gmail.com)
+* ✉️  You can contact me on https://www.linkedin.com/in/rokas-marcinkevicius/
 * 🧠  I'm learning Leet Code
 * 🤝  I'm open to collaborating on Code Jams, Hackathons and Coding Competitions
 * 🖤 Dark Mode everything!
