@@ -8,7 +8,7 @@ Senior Software Engineer and C# lecturer with industry experience building websi
 
 * 🌍  I'm based in Lithuania
 * ✉️  You can contact me on https://www.linkedin.com/in/rokas-marcinkevicius/
-* 🧠  I'm learning Leet Code
+* 🧠  I'm learning Leet Code & Kaggle
 * 🤝  I'm open to collaborating on Code Jams, Hackathons and Coding Competitions
 * 🖤 Dark Mode everything!
 
