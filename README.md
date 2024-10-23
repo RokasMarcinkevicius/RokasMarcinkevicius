@@ -1,7 +1,7 @@
 Hi 👋 My name is Rokas Marcinkevičius
 =====================================
 
-Senior Software Engineer @ Topo Centras / Lecturer @ CodeAcademy
+Senior Software Engineer @ Tickmill / Lecturer @ CodeAcademy
 -----------------------------------------------------------
 
 Senior Software Engineer and C# lecturer with industry experience building websites, web applications and APIs. I specialize in C# and have professional experience working with .Net, MSSQL and Python. I also have experience working with Vue, React, Node.js and other similar web development tools & languages.
