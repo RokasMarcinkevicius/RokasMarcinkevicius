@@ -4,7 +4,7 @@ Hi 👋 My name is Rokas Marcinkevičius
 Senior Software Engineer @ Tickmill / Lecturer @ CodeAcademy
 -----------------------------------------------------------
 
-Senior Software Engineer and C# lecturer with industry experience building websites, web applications and APIs. I specialize in C# and have professional experience working with .Net, MSSQL and Python. I also have experience working with Vue, React, Node.js and other similar web development tools & languages.
+Senior Software Engineer and C# lecturer with industry experience building websites, web applications and APIs. I specialize in C# and have professional experience working with .Net, MSSQL and Python. I also have experience working with PHP, Vue, React, Node.js and other similar web development tools & languages.
 
 * 🌍  I'm based in Lithuania
 * ✉️  You can contact me on https://www.linkedin.com/in/rokas-marcinkevicius/
