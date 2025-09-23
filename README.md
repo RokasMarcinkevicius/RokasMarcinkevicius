@@ -32,8 +32,8 @@ Delivered on **.NET 8 LTS** with SOLID/DDD, microservices, RabbitMQ, Docker, Pos
 - **Messaging**: RabbitMQ, MassTransit  
 - **Data**: PostgreSQL, Redis, MSSQL  
 - **Infra**: Docker, Kubernetes, GCP, Azure  
-- **Testing**: xUnit, Testcontainers  
-- **Other**: Python (pandas, PyTorch) for AI/ML experiments  
+- **Testing**: xUnit  
+- **Other**: Python, Jupyter for AI/ML  
 
 ## Research
 Currently pursuing M.Sc. AI at KTU. Thesis:  
