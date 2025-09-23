@@ -24,7 +24,7 @@ Delivered on **.NET 8 LTS** with SOLID/DDD, microservices, RabbitMQ, Docker, Pos
 
 ## Past Roles
 - **Topo Centras** (Retail, Lithuania) – Senior Software Engineer, built scalable backend services and integrations  
-- **Danske Bank** – Software Engineer, contributed to large-scale financial systems  
+- **Danske Bank** (Markets, Lithuania) – Software Engineer, contributed to large-scale financial systems  
 - **CodeAcademy** – Lecturer, taught ~60 students over 2 years in .NET / C#  
 
 ## Tech Stack
