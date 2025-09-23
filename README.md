@@ -1,43 +1,40 @@
-Hi 👋 My name is Rokas Marcinkevičius
-=====================================
+# Rokas Marcinkevičius
 
-Senior Software Engineer @ Tickmill / Lecturer @ CodeAcademy
------------------------------------------------------------
+Senior .NET / C# Software Engineer — FinTech & Payments
 
-Senior Software Engineer and C# lecturer with industry experience building websites, web applications and APIs. I specialize in C# and have professional experience working with .Net, MSSQL and Python. I also have experience working with PHP, Vue, React, Node.js and other similar web development tools & languages.
+## Current Role
+At **Tickmill** (Global Forex Awards 2025: Most Competitive Broker), I design and implement high-availability fintech and back-office systems:
 
-* 🌍  I'm based in Lithuania
-* ✉️  You can contact me on https://www.linkedin.com/in/rokas-marcinkevicius/
-* 🧠  I'm learning Leet Code & Kaggle
-* 🤝  I'm open to collaborating on Code Jams, Hackathons and Coding Competitions
-* 🖤 Dark Mode everything!
+- **Global Payments & Authentication**
+  - Apple Pay, Google Pay
+  - Binance Merchant Acquiring (C2B) with Face ID & Passkeys
+  - JPMorgan Chase integration
+  - Bitstamp currency ticker
+  - PSPs: Unlimit, Transact 365, Whish.Money
+- **Brokerage Back-Office**
+  - Identity, Wallets, Exchange Rates, Clients, Documents
+- **Internal Tools**
+  - Secure Google Authentication
+  - URL shortener
+  - QR code generator
 
-### Skills
+Delivered on **.NET 8 LTS** with SOLID/DDD, microservices, RabbitMQ, Docker, PostgreSQL, Redis.
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-</p>
+## Past Roles
+- **Topo Centras** (Retail, Lithuania) – Senior Software Engineer, built scalable backend services and integrations
+- **Danske Bank** – Software Engineer, contributed to large-scale financial systems
+- **CodeAcademy** – Lecturer, taught ~60 students over 2 years in .NET / C#
 
-### Socials
+## Tech Stack
+- **Core**: C#, .NET 8, ASP.NET Core, EF Core
+- **Messaging**: RabbitMQ, MassTransit
+- **Data**: PostgreSQL, Redis, MSSQL
+- **Infra**: Docker, Kubernetes, GCP, Azure
+- **Testing**: xUnit, Testcontainers
+- **Other**: Python (pandas, PyTorch) for AI/ML experiments
 
-<p align="left"> <a href="https://www.facebook.com/XR5XK4wtYSZ84bS7FRepcRA78Eud9FenixtIQI4nw1h" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/RokasMarcinkevicius" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/majestcb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rokas-marcinkevicius" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.leetcode.com/rokasmarcinkevicius" target="_blank" el="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rokasmarcinkevicius" height="32" width="32" /></a>
-</p>
+## Research
+Currently pursuing M.Sc. AI at KTU. Thesis:  
+**“Risk-Aware and Explainable Deep Reinforcement Learning for Multi-Asset Portfolio Optimization”**
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/RokasMarcinkevicius"><img src="https://github-readme-stats.vercel.app/api?username=RokasMarcinkevicius&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RokasMarcinkevicius's GitHub stats" /></a>
-
-<a href="https://github.com/RokasMarcinkevicius" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RokasMarcinkevicius&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+> Building secure, high-availability fintech and research systems with .NET and modern cloud stacks.
