@@ -12,7 +12,7 @@ At **Tickmill** (Global Forex Awards 2025: Most Competitive Broker), I design an
   - Binance Merchant Acquiring (C2B) with Face ID & Passkeys
   - JPMorgan Chase integration
   - Bitstamp currency ticker
-  - PSPs: Unlimit, Transact 365, Whish.Money
+  - PSPs: Unlimit, Transact 365, Whish.Money, etc.
 - **Brokerage Back-Office**
   - Identity, Wallets, Exchange Rates, Clients, Documents
 - **Internal Tools**
