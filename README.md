@@ -35,8 +35,4 @@ Delivered on **.NET 8 LTS** with SOLID/DDD, microservices, RabbitMQ, Docker, Pos
 - **Testing**: xUnit  
 - **Other**: Python, Jupyter for AI/ML  
 
-## Research
-Currently pursuing M.Sc. AI at KTU. Thesis:  
-**“Risk-Aware and Explainable Deep Reinforcement Learning for Multi-Asset Portfolio Optimization”**
-
 > Building secure, high-availability fintech and research systems with .NET and modern cloud stacks.
